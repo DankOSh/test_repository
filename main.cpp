@@ -51,8 +51,6 @@ int main(int argc, char *argv[]) {
 	
 	Controller kontroler;
 	kontroler.startWorkInAThread();
-	
-	kontroler.startWorkInAThread();//again test repository
 
 	// create and show your widgets here
 
