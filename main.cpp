@@ -53,6 +53,7 @@ int main(int argc, char *argv[]) {
 	kontroler.startWorkInAThread();
 
 	// create and show your widgets here
+	//setting for remote repository
 
 	return app.exec();
 	//testing the repository
